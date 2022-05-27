@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "realm-diary",
+    "slug": "realm-diary",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "realm-diary"
+}
